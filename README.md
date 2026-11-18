@@ -23,7 +23,7 @@ Free, no ads. Sign in with Google and your records sync between phone and PC. Wo
 
 FieldDOPE tells you when a newer version is out. Click **Update now** and it updates itself.
 
-Current version: **1.7.2**. Requires Windows 10 or 11 (64-bit).
+Current version: **1.7.3**. Requires Windows 10 or 11 (64-bit).
 
 ## Questions and feedback
 
